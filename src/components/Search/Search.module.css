@@ -1,0 +1,21 @@
+.search {
+    width: 750px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.second-search {
+    width: 750px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0em auto 
+}
+
+h3 {
+    margin-top: 100px;
+    margin-left: 25%;
+}
